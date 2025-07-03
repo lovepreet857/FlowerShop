@@ -1,0 +1,52 @@
+[
+    {
+        "img":"src/assets/img/pilastro.jpg",
+        "text":"Glass Vase",
+        "prce":"$15"
+    },
+     {
+        "img":"src/assets/img/pilastro2.jpg",
+        "text":"Hammershoi",
+        "prce":"$45"
+    },
+     {
+        "img":"src/assets/img/plistro3.jpg",
+        "text":"Ceramic Vase",
+        "prce":"$35"
+    },
+     {
+        "img":"src/assets/img/plistro4.jpg",
+        "text":"Steel vase",
+        "prce":"$25"
+    },
+     {
+        "img":"src/assets/img/plistro5.png",
+        "text":"Bamboo",
+        "prce":"$36"
+    },
+    {
+        "img":"src/assets/img/pilastro.jpg",
+        "text":"Glass Vase",
+        "prce":"$15"
+    },
+     {
+        "img":"src/assets/img/pilastro2.jpg",
+        "text":"Hammershoi",
+        "prce":"$45"
+    },
+     {
+        "img":"src/assets/img/plistro3.jpg",
+        "text":"Ceramic Vase",
+        "prce":"$35"
+    },
+     {
+        "img":"src/assets/img/plistro4.jpg",
+        "text":"Steel vase",
+        "prce":"$25"
+    },
+     {
+        "img":"src/assets/img/plistro5.png",
+        "text":"Bamboo",
+        "prce":"$36"
+    }
+]

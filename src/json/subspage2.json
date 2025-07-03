@@ -1,0 +1,35 @@
+[
+
+    {
+        "img1":"src/assets/img/bouquet1.png",
+        "text1":"Classic",
+        "list1":"Price $45  ",
+        "list2":"Free Delivery",
+        "list3":"Best for a budget",
+        "list4":"Glass vase with first delivery",
+        "list5":"Save up to 25%",
+        "button":"Select"
+
+    },
+     {
+        "img1":"src/assets/img/bouquet1.png",
+        "text1":"Classic",
+        "list1":"Price $45  ",
+        "list2":"Free Delivery",
+        "list3":"Best for a budget",
+        "list4":"Glass vase with first delivery",
+        "list5":"Save up to 25%",
+        "button":"Select"
+    },
+     {
+        "img1":"src/assets/img/bouquet1.png",
+        "text1":"Classic",
+        "list1":"Price $45  ",
+        "list2":"Free Delivery",
+        "list3":"Best for a budget",
+        "list4":"Glass vase with first delivery",
+        "list5":"Save up to 25%",
+        "button":"Select"
+
+    }
+]

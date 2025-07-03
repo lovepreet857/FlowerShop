@@ -1,0 +1,53 @@
+[
+    {
+        "img":"src/assets/img/flower1img.jpg",
+        "text1":"Snowfall",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower2img.png",
+         "text1":"Dawn's Delight",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower3img.png",
+         "text1":"Pink Elegance",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower4img.png",
+         "text1":"Rustic Charm",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower5img.png",
+         "text1":"Autumn Symphony",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower6imh.png",
+         "text1":"Rosy Delight",
+        "text2":"price 70$"
+    },
+    {
+        "img":"src/assets/img/flower7img.png",
+         "text1":"Serenity",
+        "text2":"price 89$"
+    },
+    {
+        "img":"src/assets/img/flower8img.png",
+         "text1":"Blue Harmony",
+        "text2":"price 55$"
+    },
+    {
+        "img":"src/assets/img/flower9img.png",
+         "text1":"Mystical Majesty",
+        "text2":"price 80$"
+    },
+    {
+        "img":"src/assets/img/flower10img.png",
+         "text1":"Blazing Blossoms",
+        "text2":"price 70$"
+    }
+   
+]

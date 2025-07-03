@@ -1,0 +1,55 @@
+[
+    {
+       "text1": "Fresh Flowers",
+       "text2": "Shop now",
+       "svg": "src/assets/svg/arrow-right.svg"
+    },
+    {
+       "imge1": "src/assets/img/Untitled.png",
+       "path":"/product"
+       
+    },
+    {
+       "imge1": "src/assets/img/Untitled (3).png",
+       "path":"/product"
+
+    
+    },
+    {
+       "text1": "Dried Flowers",
+       "text2": "Shop now",
+       "svg": ""
+    },
+    {
+       "text1": "Live Plants ",
+       "text2": "Shop now",
+       "svg": "src/assets/svg/arrow-right.svg",
+       "imge1": "src/assets/images/card item.png"
+    },
+    {
+       "imge1": "src/assets/img/Untitled (2).png",
+       "path":"/product"
+
+    },
+    {
+       "imge1": "src/assets/img/Untitled (1).png",
+       "path":"/product"
+
+    },
+    {
+       "text1": "Aroma Candels ",
+       "text2": "Shop now",
+       "svg": "src/assets/svg/arrow-right.svg",
+       "imge1": "src/assets/images/card item.png"
+    },
+    {
+       "text1": "Fresheners  ",
+       "text2": "Shop now",
+       "svg": "src/assets/svg/arrow-right.svg"
+    },
+    {
+        "imge1": "src/assets/img/Untitled (3).png",
+       "path":"/product"
+
+     }
+ ]

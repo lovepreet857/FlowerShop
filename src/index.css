@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: "poppins_regular";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/poppins_regular.ttf);
+  }
+
+  @font-face {
+    font-family: "poppins_medium";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/poppins_medium.ttf);
+  }
+
+  @font-face {
+    font-family: "poppins_semibold";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/poppins_semibold.ttf);
+  }
+
+  @font-face {
+    font-family: "poppins_Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/poppins_Boldttf);
+  }
